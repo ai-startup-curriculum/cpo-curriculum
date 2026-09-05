@@ -1,4 +1,4 @@
-# Exercise A — Assumption map for your riskiest bet
+# Exercise 1 — Assumption map for your riskiest bet
 
 **Time:** ~30 min. **Deliverable:** one page, roughly the shape below.
 
@@ -6,7 +6,8 @@
 
 Turn the vague statement of what your product does into a written map of the
 specific things that must be true for it to work. You will use this map as
-the input to the interview scripts in Exercise B and the sprint in the Lab.
+the input to the interview scripts in [Exercise 2](exercise-02-interview-script-critique.md)
+and the sprint in the [Lab](../labs/L-discovery-sprint.md).
 
 ## Instructions
 

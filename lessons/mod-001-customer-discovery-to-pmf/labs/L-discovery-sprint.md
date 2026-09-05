@@ -12,10 +12,11 @@ produce evidence and next-experiment decisions your team can act on.
 
 ## Prerequisites
 
-- Exercise A completed for the product you'll interview about — you'll
-  test the top three ranked claims.
-- Exercise B completed — you have a rewritten script and follow-up
-  prompts.
+- [Exercise 1](../exercises/exercise-01-assumption-map-for-riskiest-bet.md)
+  completed for the product you'll interview about — you'll test the top
+  three ranked claims.
+- [Exercise 2](../exercises/exercise-02-interview-script-critique.md)
+  completed — you have a rewritten script and follow-up prompts.
 - Five real people in your target segment identified, or a plan to reach
   five within three days. If you're stuck on recruiting: LinkedIn, community
   Slacks/Discords aligned to the segment, alumni networks, and
@@ -28,7 +29,7 @@ produce evidence and next-experiment decisions your team can act on.
 
 ### Step 1 — Sharpen the hypotheses (30 min)
 
-Take the top three ranked rows from your Exercise A assumption map.
+Take the top three ranked rows from your Exercise 1 assumption map.
 Rewrite each as a specific claim about past behavior that a single
 interview could move your belief in. Example:
 
@@ -60,7 +61,7 @@ Recruit tips:
 
 ### Step 3 — Interview (Day 3–5)
 
-Run five interviews using your rewritten script from Exercise B. Record
+Run five interviews using your rewritten script from Exercise 2. Record
 with consent; if the interviewee declines recording, take notes by hand
 and rewrite them within an hour.
 

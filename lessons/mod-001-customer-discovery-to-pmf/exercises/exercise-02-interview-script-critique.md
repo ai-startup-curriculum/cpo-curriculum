@@ -1,4 +1,4 @@
-# Exercise B — Interview-script critique
+# Exercise 2 — Interview-script critique
 
 **Time:** ~30 min. **Deliverable:** the script below, red-lined; then your
 rewritten version.

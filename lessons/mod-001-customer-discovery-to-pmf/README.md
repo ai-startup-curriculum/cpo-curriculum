@@ -59,15 +59,16 @@ or bring equivalent experience:
 
 | # | Piece | Type | Est. time |
 |---|---|---|---|
-| 1 | Why search before execute — Customer Development in one sitting | Lecture | 30 min |
-| 2 | Interview craft, Jobs-to-be-Done, and the opportunity solution tree | Lecture | 45 min |
-| 3 | Measuring product/market fit — surveys, cohorts, and pull | Lecture | 45 min |
-| 4 | Discovery anti-patterns and how they fool founders | Lecture | 30 min |
-| A | Assumption map for your riskiest bet | Exercise | 30 min |
-| B | Interview-script critique | Exercise | 30 min |
-| C | PMF-signal triage | Exercise | 45 min |
-| L | Five-interview discovery sprint + synthesis | Lab | 6–8 hrs across a week |
-| Q | Knowledge check | Quiz | 20 min |
+| 1 | [Why search before execute — Customer Development in one sitting](lectures/01-search-before-execute.md) | Lecture | 30 min |
+| 2 | [Interview craft, Jobs-to-be-Done, and the opportunity solution tree](lectures/02-interviews-jtbd-opportunity-trees.md) | Lecture | 45 min |
+| 3 | [Measuring product/market fit — surveys, cohorts, and pull](lectures/03-measuring-pmf.md) | Lecture | 45 min |
+| 4 | [Discovery anti-patterns and how they fool founders](lectures/04-anti-patterns.md) | Lecture | 30 min |
+| 1 | [Assumption map for your riskiest bet](exercises/exercise-01-assumption-map-for-riskiest-bet.md) | Exercise | 30 min |
+| 2 | [Interview-script critique](exercises/exercise-02-interview-script-critique.md) | Exercise | 30 min |
+| 3 | [PMF-signal triage](exercises/exercise-03-pmf-signal-triage.md) | Exercise | 45 min |
+| L | [Five-interview discovery sprint + synthesis](labs/L-discovery-sprint.md) | Lab | 6–8 hrs across a week |
+| Q | [Knowledge check](quizzes/Q-knowledge-check.md) | Quiz | 20 min |
+| R | [Resources — books, essays, and primary sources](resources.md) | Reference | — |
 
 ## How to work this module
 
@@ -79,10 +80,10 @@ you can talk to five real humans; the point is the interviews, not the write-up.
 
 ## Deliverables
 
-- Assumption map (Exercise A) — a one-page grid of what must be true.
-- Annotated interview script (Exercise B) — your questions with red-lines.
-- PMF-signal memo (Exercise C) — one page, three signals, honest verdict.
-- Discovery-sprint report (Lab) — interview notes, an opportunity solution
+- Assumption map ([Exercise 1](exercises/exercise-01-assumption-map-for-riskiest-bet.md)) — a one-page grid of what must be true.
+- Annotated interview script ([Exercise 2](exercises/exercise-02-interview-script-critique.md)) — your questions with red-lines.
+- PMF-signal memo ([Exercise 3](exercises/exercise-03-pmf-signal-triage.md)) — one page, three signals, honest verdict.
+- Discovery-sprint report ([Lab](labs/L-discovery-sprint.md)) — interview notes, an opportunity solution
   tree, and 2–3 next experiments with success/kill criteria.
 
 ## Sources this module leans on
@@ -101,4 +102,5 @@ you can talk to five real humans; the point is the interviews, not the write-up.
   *First Round Review*, 2018 —
   [firstround.com/review](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/).
 
-Additional sources are cited inline in the lectures.
+See [resources.md](resources.md) for the full, linked reading list. Additional
+sources are cited inline in each lecture and exercise.

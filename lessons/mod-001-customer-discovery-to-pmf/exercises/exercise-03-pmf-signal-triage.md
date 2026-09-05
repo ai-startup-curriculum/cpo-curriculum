@@ -1,4 +1,4 @@
-# Exercise C — PMF-signal triage
+# Exercise 3 — PMF-signal triage
 
 **Time:** ~45 min. **Deliverable:** a one-page memo with an honest verdict.
 
